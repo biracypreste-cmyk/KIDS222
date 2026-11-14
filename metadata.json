@@ -1,0 +1,6 @@
+{
+  "name": "M+ Kids",
+  "description": "Plataforma de streaming infantil com filmes, séries, animações e conteúdos educativos para toda a família.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
